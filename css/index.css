@@ -1,0 +1,119 @@
+.azul{
+    width: 90%;
+    height: 6rem;
+    padding: 1rem 0 0 3rem;
+    background: #9dc9cc;
+    margin: 0 0 1rem 0;
+}
+
+.logo{
+    width: 30rem;
+    height: auto;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.logo img{
+    width: 4.5rem;
+}
+
+.logo h1{
+    padding-left: 1rem;
+}
+
+.caja-padre{
+    width: 100%;
+    height: auto;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.rojo{
+    width: 16%;
+    height: 46rem;
+    background-color:#9dc9cc;
+}
+
+.personaje{
+    width: 30rem;
+    height: auto;
+    align-items: center;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.personaje img{
+    width: 30rem;
+    padding: 3rem 3rem 3rem 3rem;
+}
+
+.verde{
+    width: 74%;
+    height: 46rem;
+    background-color: #75b3b7;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.naranja-1, .naranja-2, .naranja-3{
+    width: 30%;
+    height: 30rem;
+    background-color: #3c9096;
+    margin: 1rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bulbasaur img{
+    width:20rem;
+}
+
+.bulbasaur h2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.cahrmander img{
+    width:20rem;
+}
+
+.cahrmander h2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.squirtle img{
+    width:20rem;
+}
+
+.squirtle h2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.morado{
+    width: 90%;
+    height: 6rem;
+    background-color: #3c9096;
+    margin: 1rem 0 0 0;
+}
+
+.morado h1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    padding: 1.65rem 0 0 0;
+}
